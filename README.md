@@ -1,1 +1,1 @@
-# nuxtApp
+# nuxjs-tApp
